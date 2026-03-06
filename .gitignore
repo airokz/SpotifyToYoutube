@@ -1,0 +1,7 @@
+ytmusic_auth.json
+workspace/
+*.csv
+venv/
+__pycache__/
+*.pyc
+.env
