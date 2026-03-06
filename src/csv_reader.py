@@ -22,7 +22,11 @@ def parse_csv(path: Path) -> list[dict]:
             ).strip()
             album = (row.get("Album Name") or row.get("album") or "").strip()
             duration_raw = (
-                row.get("Duration (ms)") or row.get("duration_ms") or row.get("duration") or "0"
+                row.get("Track Duration (ms)")
+                or row.get("Duration (ms)")
+                or row.get("duration_ms")
+                or row.get("duration")
+                or "0"
             ).strip()
 
             try:
