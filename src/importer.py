@@ -67,8 +67,7 @@ def run_import(
     if today_count >= DAILY_WARN_THRESHOLD:
         print(f"\nApproaching daily limit: {today_count}/{DAILY_LIMIT} adds used today.")
 
-    pl_state = state.get_playlist_state(playlist_name)
-    start_idx = len(pl_state.get("added_video_ids", []))
+    start_idx = state.get_csv_position(playlist_name)
     remaining_tracks = csv_tracks[start_idx:]
 
     if not remaining_tracks:
@@ -87,7 +86,7 @@ def run_import(
 
     print(f"\n  Processing {len(batch)} tracks...\n")
 
-    for track in tqdm(batch, unit="track"):
+    for i, track in enumerate(tqdm(batch, unit="track")):
         status, video_id, match_info = search_and_match(ytm, track)
 
         log_entry = {
@@ -122,11 +121,13 @@ def run_import(
         else:
             not_found += 1
 
+        # Always advance CSV position regardless of outcome
+        state.set_csv_position(playlist_name, start_idx + i + 1)
         append_log(log_entry)
 
     save_pending(pending_items)
 
-    if start_idx + len(batch) >= len(csv_tracks):
+    if state.get_csv_position(playlist_name) >= len(csv_tracks):
         state.mark_playlist_done(playlist_name)
 
     total_pending = len([p for p in pending_items if p["playlist_name"] == playlist_name])

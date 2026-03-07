@@ -42,6 +42,14 @@ class State:
         self.get_playlist_state(playlist_name)["yt_playlist_id"] = yt_id
         self.save()
 
+    def get_csv_position(self, playlist_name: str) -> int:
+        """Return how many CSV rows have been processed (including pending/not-found)."""
+        return self.get_playlist_state(playlist_name).get("csv_position", 0)
+
+    def set_csv_position(self, playlist_name: str, pos: int) -> None:
+        self.get_playlist_state(playlist_name)["csv_position"] = pos
+        self.save()
+
     def mark_track_added(self, playlist_name: str, video_id: str) -> None:
         state = self.get_playlist_state(playlist_name)
         if video_id not in state["added_video_ids"]:
