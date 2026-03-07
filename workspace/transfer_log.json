@@ -1,0 +1,2102 @@
+[
+  {
+    "timestamp": "2026-03-07T21:02:47.049718",
+    "playlist": "playlist",
+    "spotify": "Metric -- Help I'm Alive (Danger Denial Anger Acceptance Mix)",
+    "status": "pending",
+    "match": {
+      "score": 70.0,
+      "yt_title": "Help I'm Alive",
+      "yt_artist": "Metric",
+      "yt_duration_s": 287,
+      "reason": "artist=100% title=100% | duration_diff=48s",
+      "video_id": "liYmtzt1lOE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:02:47.616613",
+    "playlist": "playlist",
+    "spotify": "Massive Attack -- Paradise Circus",
+    "status": "pending",
+    "match": {
+      "score": 70.0,
+      "yt_title": "Paradise Circus (feat. Hope Sandoval)",
+      "yt_artist": "Massive Attack",
+      "yt_duration_s": 298,
+      "reason": "artist=100% title=100% | duration_diff=16s",
+      "video_id": "6hUkyKBsGtQ"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:02:48.159386",
+    "playlist": "playlist",
+    "spotify": "Maddi Jane -- Secrets (Acoustic)",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Secrets (Acoustic)",
+      "yt_artist": "Maddi Jane",
+      "yt_duration_s": 167,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "RSdknLa-k0A"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:02:52.158247",
+    "playlist": "playlist",
+    "spotify": "Johann Pachelbel, Jean-François Paillard, Orchestre de chambre Jean-François Paillard -- Pachelbel: Canon and Gigue for Three Violins and Continuo in D Major: Canon",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Canon and Gigue for Three Violins and Continuo in D Major: Canon",
+      "yt_artist": "Jean-François Paillard",
+      "yt_duration_s": 433,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "QvcXwykfUq4"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:02:55.590684",
+    "playlist": "playlist",
+    "spotify": "Doro, The Classic Night Orchestra -- I Rule the Ruins",
+    "status": "pending",
+    "match": {
+      "score": 53.0,
+      "yt_title": "I Rule the Ruins (feat. The Classic Night Orchestra)",
+      "yt_artist": "Doro",
+      "yt_duration_s": 243,
+      "reason": "artist=22% title=100% | duration_diff=0s",
+      "video_id": "2iV4naMm8aI"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:02:56.077189",
+    "playlist": "playlist",
+    "spotify": "Rainbow -- The Temple Of The King",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "The Temple Of The King",
+      "yt_artist": "Rainbow",
+      "yt_duration_s": 283,
+      "reason": "artist=100% title=100% | duration_diff=1s",
+      "video_id": "B7nKzCRL_oo"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:02:59.727593",
+    "playlist": "playlist",
+    "spotify": "Waldeck -- Make My Day - Parov Stelar Mix",
+    "status": "added",
+    "match": {
+      "score": 92.0,
+      "yt_title": "Make My Day (Parov Stelar Mix)",
+      "yt_artist": "Waldeck",
+      "yt_duration_s": 280,
+      "reason": "artist=100% title=80% | duration_diff=0s",
+      "video_id": "x8VTKRyecgE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:03.255531",
+    "playlist": "playlist",
+    "spotify": "Waldeck -- Make My Day",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Make My Day",
+      "yt_artist": "Waldeck",
+      "yt_duration_s": 169,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "HQ75BdKvAi4"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:06.714275",
+    "playlist": "playlist",
+    "spotify": "Fink -- Six Weeks",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Six Weeks",
+      "yt_artist": "Fink",
+      "yt_duration_s": 184,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "YsBslD18bOw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:10.188085",
+    "playlist": "playlist",
+    "spotify": "Katie Melua -- Nine Million Bicycles",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Nine Million Bicycles",
+      "yt_artist": "Katie Melua",
+      "yt_duration_s": 196,
+      "reason": "artist=100% title=100% | duration_diff=1s",
+      "video_id": "xeNBXQBAu8o"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:13.712444",
+    "playlist": "playlist",
+    "spotify": "Katie Melua -- Piece By Piece",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Piece By Piece",
+      "yt_artist": "Katie Melua",
+      "yt_duration_s": 205,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "9s9rFAulhlc"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:17.165746",
+    "playlist": "playlist",
+    "spotify": "Koop, Earl Zinger -- Forces... Darling",
+    "status": "pending",
+    "match": {
+      "score": 62.9,
+      "yt_title": "Forces... Darling",
+      "yt_artist": "Koop",
+      "yt_duration_s": 306,
+      "reason": "artist=38% title=100% | duration_diff=0s",
+      "video_id": "L4sTDeknppE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:17.667048",
+    "playlist": "playlist",
+    "spotify": "Koop -- Summer Sun",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Summer Sun",
+      "yt_artist": "Koop",
+      "yt_duration_s": 228,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "OQ1b1QuIZb8"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:21.180642",
+    "playlist": "playlist",
+    "spotify": "Gabin -- Lost and Found",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Lost and Found (feat. Mia Cooper)",
+      "yt_artist": "Gabin",
+      "yt_duration_s": 259,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "TQaORg0c9hM"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:24.719832",
+    "playlist": "playlist",
+    "spotify": "Combustible Edison -- Mudhead",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Mudhead",
+      "yt_artist": "Combustible Edison",
+      "yt_duration_s": 214,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "1aAsMOL08HA"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:28.282427",
+    "playlist": "playlist",
+    "spotify": "GoldFish -- Soundtracks & Come Backs",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Soundtracks & Come Backs",
+      "yt_artist": "Goldfish",
+      "yt_duration_s": 321,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "64pXAtT5Ujo"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:31.698597",
+    "playlist": "playlist",
+    "spotify": "Beats Antique -- Beauty Beats",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Beauty Beats",
+      "yt_artist": "Beats Antique",
+      "yt_duration_s": 225,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "dyWlGBfbZcQ"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:35.163081",
+    "playlist": "playlist",
+    "spotify": "Beats Antique -- She's Looking For Something",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "She's Looking for Something (feat. Lynx & Janover)",
+      "yt_artist": "Beats Antique",
+      "yt_duration_s": 321,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "_1kzKDcEp4c"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:38.562302",
+    "playlist": "playlist",
+    "spotify": "The Glitch Mob -- We Can Make The World Stop",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "We Can Make The World Stop",
+      "yt_artist": "The Glitch Mob",
+      "yt_duration_s": 326,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "RFGrAHn0Whk"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:41.990089",
+    "playlist": "playlist",
+    "spotify": "The Glitch Mob -- Fortune Days",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Fortune Days",
+      "yt_artist": "The Glitch Mob",
+      "yt_duration_s": 383,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "AckG0JVrYDA"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:45.740075",
+    "playlist": "playlist",
+    "spotify": "Pretty Lights -- Someday Is Everyday",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Someday Is Everyday",
+      "yt_artist": "Pretty Lights",
+      "yt_duration_s": 402,
+      "reason": "artist=100% title=100% | duration_diff=1s",
+      "video_id": "j71fQlPwJ0M"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:49.139300",
+    "playlist": "playlist",
+    "spotify": "Pretty Lights -- Finally Moving",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Finally Moving",
+      "yt_artist": "Pretty Lights",
+      "yt_duration_s": 278,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "rSW-L4kXun8"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:52.572764",
+    "playlist": "playlist",
+    "spotify": "Xploding Plastix -- More Powah To Yah",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "More Powah to Yah",
+      "yt_artist": "Xploding Plastix",
+      "yt_duration_s": 327,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "OEHc2LFxzbY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:56.048093",
+    "playlist": "playlist",
+    "spotify": "New Tribute Kings -- Goodbye Originally Performed By Feder Feat. Lyse - Tribute Version",
+    "status": "pending",
+    "match": {
+      "score": 62.9,
+      "yt_title": "Goodbye to Love Originally Performed By Carpenters (Tribute Version)",
+      "yt_artist": "New Tribute Kings",
+      "yt_duration_s": 176,
+      "reason": "artist=100% title=75% | duration_diff=29s",
+      "video_id": "-lpwUH8wmjw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:03:56.463041",
+    "playlist": "playlist",
+    "spotify": "Roman Flügel -- Wilkie",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Wilkie",
+      "yt_artist": "Roman Flügel",
+      "yt_duration_s": 324,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "5hEDiy0_SA4"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:21.297721",
+    "playlist": "playlist",
+    "spotify": "Ruby Rushton -- Moonlight Woman",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Moonlight Woman",
+      "yt_artist": "Ruby Rushton",
+      "yt_duration_s": 545,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "jz_TC5tulFI"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:24.767211",
+    "playlist": "playlist",
+    "spotify": "DJ Koze -- Track ID Anyone? (feat. Caribou)",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Track ID Anyone? (feat. Caribou)",
+      "yt_artist": "DJ Koze",
+      "yt_duration_s": 304,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "sXpIVxsIGQY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:28.249631",
+    "playlist": "playlist",
+    "spotify": "Nina Kraviz -- I'm Gonna Get You - Original Mix",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "I'm Gonna Get You",
+      "yt_artist": "Nina Kraviz",
+      "yt_duration_s": 599,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "F-QJEAOd_-Q"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:31.844625",
+    "playlist": "playlist",
+    "spotify": "Frànçois & The Atlas Mountains, Isaac Delusion -- La Fille Aux Cheveux De Soie - Isaac Delusion Remix",
+    "status": "pending",
+    "match": {
+      "score": 88.0,
+      "yt_title": "La fille aux cheveux de soie",
+      "yt_artist": "Frànçois & The Atlas Mountains",
+      "yt_duration_s": 234,
+      "reason": "artist=80% title=100% | duration_diff=0s",
+      "video_id": "RCKvuskfAC4"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:32.349916",
+    "playlist": "playlist",
+    "spotify": "Kavinsky -- Nightcall",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Nightcall",
+      "yt_artist": "Kavinsky",
+      "yt_duration_s": 258,
+      "reason": "artist=100% title=100% | duration_diff=2s",
+      "video_id": "LfgNorryffc"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:36.018000",
+    "playlist": "playlist",
+    "spotify": "Sid Le Rock -- She Smiles",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "She Smiles",
+      "yt_artist": "Sid Le Rock",
+      "yt_duration_s": 463,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "tKUnknW8lEw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:39.632302",
+    "playlist": "playlist",
+    "spotify": "Thomas Azier -- Red Eyes",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Red Eyes",
+      "yt_artist": "Thomas Azier",
+      "yt_duration_s": 212,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "xpkijLOdt6U"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:43.151480",
+    "playlist": "playlist",
+    "spotify": "Warpaint -- Majesty",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Majesty",
+      "yt_artist": "Warpaint",
+      "yt_duration_s": 396,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "nAt4ZdG2k1s"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:46.737633",
+    "playlist": "playlist",
+    "spotify": "Mujuice -- Without You",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Without You",
+      "yt_artist": "Mujuice",
+      "yt_duration_s": 389,
+      "reason": "artist=100% title=100% | duration_diff=1s",
+      "video_id": "evbn3tBABS8"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:50.223321",
+    "playlist": "playlist",
+    "spotify": "Shortparis -- Шум великой Томи",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Шум великой Томи",
+      "yt_artist": "Shortparis",
+      "yt_duration_s": 336,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "hko1hC5WdeQ"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:53.846822",
+    "playlist": "playlist",
+    "spotify": "Sébastien Tellier -- La Ritournelle",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "La ritournelle",
+      "yt_artist": "Sébastien Tellier",
+      "yt_duration_s": 455,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "a8lwF_uiECE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:05:57.421755",
+    "playlist": "playlist",
+    "spotify": "Warpaint -- Intro",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Intro",
+      "yt_artist": "Warpaint",
+      "yt_duration_s": 112,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "x1cHq4GkxxY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:00.806871",
+    "playlist": "playlist",
+    "spotify": "N.E.R.D -- Provider",
+    "status": "added",
+    "match": {
+      "score": 96.0,
+      "yt_title": "Provider",
+      "yt_artist": "N.E.R.D.",
+      "yt_duration_s": 260,
+      "reason": "artist=93% title=100% | duration_diff=1s",
+      "video_id": "ZmSpFCwxlSc"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:04.331049",
+    "playlist": "playlist",
+    "spotify": "Martyn, Four Tet -- Glassbeadgames - 8 Hours at Fabric Dub",
+    "status": "pending",
+    "match": {
+      "score": 70.6,
+      "yt_title": "Glassbeadgames (8 Hours at Fabric Dub)",
+      "yt_artist": "Martyn",
+      "yt_duration_s": 482,
+      "reason": "artist=55% title=95% | duration_diff=0s",
+      "video_id": "6_bamRGhTog"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:04.767863",
+    "playlist": "playlist",
+    "spotify": "Adana Twins, Khan -- Drive (feat. Khan)",
+    "status": "added",
+    "match": {
+      "score": 87.1,
+      "yt_title": "Drive (feat. Khan)",
+      "yt_artist": "Adana Twins",
+      "yt_duration_s": 427,
+      "reason": "artist=79% title=100% | duration_diff=0s",
+      "video_id": "foToIOSnrpE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:08.251620",
+    "playlist": "playlist",
+    "spotify": "Radiohead -- Street Spirit (Fade Out)",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Street Spirit (Fade Out)",
+      "yt_artist": "Radiohead",
+      "yt_duration_s": 254,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "2y6kop0VTXY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:11.650096",
+    "playlist": "playlist",
+    "spotify": "Glass Animals -- Gooey",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Gooey",
+      "yt_artist": "Glass Animals",
+      "yt_duration_s": 290,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "uWIrW1IUB8A"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:16.143688",
+    "playlist": "playlist",
+    "spotify": "Massive Attack, Elizabeth Fraser -- Teardrop",
+    "status": "added",
+    "match": {
+      "score": 80.0,
+      "yt_title": "Teardrop (feat. Elizabeth Fraser)",
+      "yt_artist": "Massive Attack",
+      "yt_duration_s": 331,
+      "reason": "artist=67% title=100% | duration_diff=0s",
+      "video_id": "3h-JYx76QNM"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:19.688643",
+    "playlist": "playlist",
+    "spotify": "Massive Attack, Hope Sandoval -- Paradise Circus",
+    "status": "added",
+    "match": {
+      "score": 80.0,
+      "yt_title": "Paradise Circus (feat. Hope Sandoval)",
+      "yt_artist": "Massive Attack",
+      "yt_duration_s": 298,
+      "reason": "artist=67% title=100% | duration_diff=0s",
+      "video_id": "6hUkyKBsGtQ"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:22.627248",
+    "playlist": "playlist",
+    "spotify": "Kraftwerk -- The Model - 2009 Remaster",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "The Model",
+      "yt_artist": "Kraftwerk",
+      "yt_duration_s": 220,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "C3nL7c34VK0"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:26.221285",
+    "playlist": "playlist",
+    "spotify": "Kraftwerk -- The Robots - 2009 Remaster",
+    "status": "added",
+    "match": {
+      "score": 96.9,
+      "yt_title": "The Robots (2009 Remaster)",
+      "yt_artist": "Kraftwerk",
+      "yt_duration_s": 373,
+      "reason": "artist=100% title=92% | duration_diff=0s",
+      "video_id": "68d8GRgiec4"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:29.653382",
+    "playlist": "playlist",
+    "spotify": "Kraftwerk -- Radioactivity - 2009 Remaster",
+    "status": "added",
+    "match": {
+      "score": 97.2,
+      "yt_title": "Radioactivity (2009 Remaster)",
+      "yt_artist": "Kraftwerk",
+      "yt_duration_s": 402,
+      "reason": "artist=100% title=93% | duration_diff=0s",
+      "video_id": "X--F5b5IdqU"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:33.219844",
+    "playlist": "playlist",
+    "spotify": "Örsten -- Fleur Blanche",
+    "status": "pending",
+    "match": {
+      "score": 63.0,
+      "yt_title": "Fleur blanche",
+      "yt_artist": "Orsten",
+      "yt_duration_s": 245,
+      "reason": "artist=83% title=100% | duration_diff=7s",
+      "video_id": "ocQ4Qi3zhjY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:33.806338",
+    "playlist": "playlist",
+    "spotify": "Daft Punk -- One More Time",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "One More Time (Radio Edit)",
+      "yt_artist": "Daft Punk",
+      "yt_duration_s": 321,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "wU26xVT_vBU"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:06:37.315382",
+    "playlist": "playlist",
+    "spotify": "Daft Punk -- Aerodynamic",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Aerodynamic",
+      "yt_artist": "Daft Punk",
+      "yt_duration_s": 213,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "52fNscjkST4"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:07:47.507806",
+    "playlist": "playlist",
+    "spotify": "Daft Punk -- Aerodynamic",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Aerodynamic",
+      "yt_artist": "Daft Punk",
+      "yt_duration_s": 213,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "52fNscjkST4"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:07:50.375919",
+    "playlist": "playlist",
+    "spotify": "Evan Voytas -- Tomorrow Night We'll Go Anywhere",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Tomorrow Night We'll Go Anywhere",
+      "yt_artist": "Evan Voytas",
+      "yt_duration_s": 218,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "fSrcZ8X3BzY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:07:54.007751",
+    "playlist": "playlist",
+    "spotify": "Slackwax -- Night Out - Original Mix",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Night Out",
+      "yt_artist": "Slackwax",
+      "yt_duration_s": 325,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "97zTXmoK-xo"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:07:57.545180",
+    "playlist": "playlist",
+    "spotify": "The Mighty Bop -- Too Deep",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Too Deep",
+      "yt_artist": "The Mighty Bop",
+      "yt_duration_s": 251,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "Mu-sx5C9Gr8"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:01.084221",
+    "playlist": "playlist",
+    "spotify": "Dam Swindle, Mayer Hawthorne -- 64 Ways",
+    "status": "pending",
+    "match": {
+      "score": 73.8,
+      "yt_title": "64 Ways (feat. Mayer Hawthorne)",
+      "yt_artist": "Dam Swindle",
+      "yt_duration_s": 285,
+      "reason": "artist=56% title=100% | duration_diff=0s",
+      "video_id": "iaafEVauzsA"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:01.515575",
+    "playlist": "playlist",
+    "spotify": "Konk -- Your Life",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Your Life (12\" Version)",
+      "yt_artist": "Konk",
+      "yt_duration_s": 446,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "Mr0IfprLnmw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:05.036943",
+    "playlist": "playlist",
+    "spotify": "Mr. Fingers -- The Juice - Mixed",
+    "status": "pending",
+    "match": {
+      "score": 70.0,
+      "yt_title": "The Juice",
+      "yt_artist": "Mr. Fingers",
+      "yt_duration_s": 305,
+      "reason": "artist=100% title=100% | duration_diff=152s",
+      "video_id": "4L-Kh9DBgNA"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:05.523447",
+    "playlist": "playlist",
+    "spotify": "Against All Logic -- Now U Got Me Hooked",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Now U Got Me Hooked",
+      "yt_artist": "Against All Logic",
+      "yt_duration_s": 352,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "zSFNjetXQMs"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:09.116205",
+    "playlist": "playlist",
+    "spotify": "Against All Logic -- Know You",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Know You",
+      "yt_artist": "Against All Logic",
+      "yt_duration_s": 265,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "j-T-zlnqSK0"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:12.667667",
+    "playlist": "playlist",
+    "spotify": "trentemøller, Sune Rose Wagner -- Deceive - Trentemøller Club Mix Dub Version",
+    "status": "pending",
+    "match": {
+      "score": 64.6,
+      "yt_title": "Deceive (Trentemøller Club Mix Dub Version) (feat. Sune Rose Wagner)",
+      "yt_artist": "Trentemøller",
+      "yt_duration_s": 459,
+      "reason": "artist=57% title=76% | duration_diff=1s",
+      "video_id": "4T9en3_MVsM"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:13.223639",
+    "playlist": "playlist",
+    "spotify": "Steve Bug -- Life In Circles",
+    "status": "pending",
+    "match": {
+      "score": 74.5,
+      "yt_title": "Mantis On The Moon",
+      "yt_artist": "Steve Bug",
+      "yt_duration_s": 456,
+      "reason": "artist=100% title=36% | duration_diff=1s",
+      "video_id": "d3RtBC-b9Xk"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:13.663543",
+    "playlist": "playlist",
+    "spotify": "Coeo -- Like It Is - Mixed",
+    "status": "pending",
+    "match": {
+      "score": 70.0,
+      "yt_title": "Like It Is",
+      "yt_artist": "COEO",
+      "yt_duration_s": 356,
+      "reason": "artist=100% title=100% | duration_diff=93s",
+      "video_id": "16IL_NAB9u4"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:14.324807",
+    "playlist": "playlist",
+    "spotify": "Kiko Navarro, Buika -- Lo Siento - Album Edit",
+    "status": "pending",
+    "match": {
+      "score": 71.1,
+      "yt_title": "Lo Siento (Album Edit) (feat. Concha Buika)",
+      "yt_artist": "Kiko Navarro",
+      "yt_duration_s": 312,
+      "reason": "artist=77% title=62% | duration_diff=0s",
+      "video_id": "FBy7yscYj6Y"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:14.802071",
+    "playlist": "playlist",
+    "spotify": "Peppe Citarella, Thieuf Ndiaye -- Yangui Ci Birr",
+    "status": "added",
+    "match": {
+      "score": 80.0,
+      "yt_title": "Yangui Ci Birr (feat. Thieuf Ndiaye)",
+      "yt_artist": "Peppe Citarella",
+      "yt_duration_s": 357,
+      "reason": "artist=67% title=100% | duration_diff=0s",
+      "video_id": "bjGIETn4xc4"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:18.280956",
+    "playlist": "playlist",
+    "spotify": "Robert Glasper -- Reckoner - Live At Capitol Studios / 2014",
+    "status": "added",
+    "match": {
+      "score": 94.1,
+      "yt_title": "Reckoner (Live At Capitol Studios / 2014)",
+      "yt_artist": "Robert Glasper",
+      "yt_duration_s": 308,
+      "reason": "artist=100% title=85% | duration_diff=0s",
+      "video_id": "rLQMH6n8Afg"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:21.927946",
+    "playlist": "playlist",
+    "spotify": "Pig&Dan -- Friday Freaks",
+    "status": "pending",
+    "match": {
+      "score": 70.0,
+      "yt_title": "Friday Freaks",
+      "yt_artist": "Pig & Dan",
+      "yt_duration_s": 308,
+      "reason": "artist=50% title=100% | duration_diff=0s",
+      "video_id": "ULduY6uh1Jc"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:22.834883",
+    "playlist": "playlist",
+    "spotify": "Sergei Rachmaninoff, St.Petersburg Chamber Choir, Nikolai Korniev, Alberto Bof -- Rachmaninov: Vespers \"Bogoroditse Devo\" (All-Night Vigil) - Alberto Bof Rework",
+    "status": "pending",
+    "match": {
+      "score": 66.1,
+      "yt_title": "Rachmaninov: Vespers \"Bogoroditse Devo\" (All-Night Vigil) (Alberto Bof Rework)",
+      "yt_artist": "St. Petersburg Chamber Choir",
+      "yt_duration_s": 399,
+      "reason": "artist=45% title=97% | duration_diff=0s",
+      "video_id": "eSdgA3Deips"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:23.336910",
+    "playlist": "playlist",
+    "spotify": "Emapea -- Reflection",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Reflection",
+      "yt_artist": "Emapea",
+      "yt_duration_s": 142,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "QdoLqqjjbtg"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:26.907233",
+    "playlist": "playlist",
+    "spotify": "Mount Kimbie -- Made To Stray",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Made To Stray",
+      "yt_artist": "Mount Kimbie",
+      "yt_duration_s": 287,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "A95hmkBdgW8"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:30.628082",
+    "playlist": "playlist",
+    "spotify": "Emmanuel Jal, Henrik Schwarz -- Kuar - Henrik Schwarz Remix",
+    "status": "added",
+    "match": {
+      "score": 85.0,
+      "yt_title": "Kuar (Henrik Schwarz remix)",
+      "yt_artist": "Emmanuel Jal",
+      "yt_duration_s": 504,
+      "reason": "artist=80% title=93% | duration_diff=0s",
+      "video_id": "5qTixQV_4FM"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:34.090018",
+    "playlist": "playlist",
+    "spotify": "Mr. Scruff -- Spandex Man",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Spandex Man",
+      "yt_artist": "Mr. Scruff",
+      "yt_duration_s": 279,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "sqUXj7lrl-Y"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:37.587633",
+    "playlist": "playlist",
+    "spotify": "Thy Catafalque -- Siraly",
+    "status": "added",
+    "match": {
+      "score": 93.3,
+      "yt_title": "Sirály",
+      "yt_artist": "Thy Catafalque",
+      "yt_duration_s": 371,
+      "reason": "artist=100% title=83% | duration_diff=0s",
+      "video_id": "t-CvMVGSrdQ"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:41.279234",
+    "playlist": "playlist",
+    "spotify": "Zola Jesus -- Exhumed",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Exhumed",
+      "yt_artist": "Zola Jesus",
+      "yt_duration_s": 226,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "0FIMqAWQ73M"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:44.639177",
+    "playlist": "playlist",
+    "spotify": "Zola Jesus -- Soak",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Soak",
+      "yt_artist": "Zola Jesus",
+      "yt_duration_s": 238,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "NNMcHP-b-DU"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:08:48.132553",
+    "playlist": "playlist",
+    "spotify": "Zola Jesus -- Skin",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Skin",
+      "yt_artist": "Zola Jesus",
+      "yt_duration_s": 262,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "UAeG91RQIfw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:11:59.107914",
+    "playlist": "playlist",
+    "spotify": "Sergei Rachmaninoff, St.Petersburg Chamber Choir, Nikolai Korniev, Alberto Bof -- Rachmaninov: Vespers \"Bogoroditse Devo\" (All-Night Vigil) - Alberto Bof Rework",
+    "status": "pending",
+    "match": {
+      "score": 66.1,
+      "yt_title": "Rachmaninov: Vespers \"Bogoroditse Devo\" (All-Night Vigil) (Alberto Bof Rework)",
+      "yt_artist": "St. Petersburg Chamber Choir",
+      "yt_duration_s": 399,
+      "reason": "artist=45% title=97% | duration_diff=0s",
+      "video_id": "eSdgA3Deips"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:11:59.591175",
+    "playlist": "playlist",
+    "spotify": "Emapea -- Reflection",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Reflection",
+      "yt_artist": "Emapea",
+      "yt_duration_s": 142,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "QdoLqqjjbtg"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:02.591138",
+    "playlist": "playlist",
+    "spotify": "Mount Kimbie -- Made To Stray",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Made To Stray",
+      "yt_artist": "Mount Kimbie",
+      "yt_duration_s": 287,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "A95hmkBdgW8"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:05.968148",
+    "playlist": "playlist",
+    "spotify": "Emmanuel Jal, Henrik Schwarz -- Kuar - Henrik Schwarz Remix",
+    "status": "added",
+    "match": {
+      "score": 85.0,
+      "yt_title": "Kuar (Henrik Schwarz remix)",
+      "yt_artist": "Emmanuel Jal",
+      "yt_duration_s": 504,
+      "reason": "artist=80% title=93% | duration_diff=0s",
+      "video_id": "5qTixQV_4FM"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:09.008364",
+    "playlist": "playlist",
+    "spotify": "Mr. Scruff -- Spandex Man",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Spandex Man",
+      "yt_artist": "Mr. Scruff",
+      "yt_duration_s": 279,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "sqUXj7lrl-Y"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:11.910983",
+    "playlist": "playlist",
+    "spotify": "Thy Catafalque -- Siraly",
+    "status": "added",
+    "match": {
+      "score": 93.3,
+      "yt_title": "Sirály",
+      "yt_artist": "Thy Catafalque",
+      "yt_duration_s": 371,
+      "reason": "artist=100% title=83% | duration_diff=0s",
+      "video_id": "t-CvMVGSrdQ"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:14.879751",
+    "playlist": "playlist",
+    "spotify": "Zola Jesus -- Exhumed",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Exhumed",
+      "yt_artist": "Zola Jesus",
+      "yt_duration_s": 226,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "0FIMqAWQ73M"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:17.842129",
+    "playlist": "playlist",
+    "spotify": "Zola Jesus -- Soak",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Soak",
+      "yt_artist": "Zola Jesus",
+      "yt_duration_s": 238,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "NNMcHP-b-DU"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:20.830013",
+    "playlist": "playlist",
+    "spotify": "Zola Jesus -- Skin",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Skin",
+      "yt_artist": "Zola Jesus",
+      "yt_duration_s": 262,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "UAeG91RQIfw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:23.989393",
+    "playlist": "playlist",
+    "spotify": "Vollny -- Волны",
+    "status": "pending",
+    "match": {
+      "score": 40.0,
+      "yt_title": "Волны",
+      "yt_artist": "Воллны",
+      "yt_duration_s": 236,
+      "reason": "artist=0% title=100% | duration_diff=0s",
+      "video_id": "-Xk9MLkHadY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:24.493140",
+    "playlist": "playlist",
+    "spotify": "D-Pulse -- Keep On Running",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Keep On Running",
+      "yt_artist": "D-Pulse",
+      "yt_duration_s": 306,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "PKWEyK3ALhY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:28.006028",
+    "playlist": "playlist",
+    "spotify": "Xploding Plastix -- Behind The Eightball (Radio Edit)",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Behind the Eightball (Radio Edit)",
+      "yt_artist": "Xploding Plastix",
+      "yt_duration_s": 237,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "GtGInLyq23w"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:31.583580",
+    "playlist": "playlist",
+    "spotify": "Broken Bells, Danger Mouse, James Mercer, Solomun -- Holding on for Life - Solomun Remix",
+    "status": "pending",
+    "match": {
+      "score": 70.9,
+      "yt_title": "Holding on for Life (Solomun Remix)",
+      "yt_artist": "Broken Bells",
+      "yt_duration_s": 573,
+      "reason": "artist=67% title=77% | duration_diff=0s",
+      "video_id": "JzI_ii_VReg"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:32.089805",
+    "playlist": "playlist",
+    "spotify": "Solomun -- Kackvogel - Original Mix",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Kackvogel",
+      "yt_artist": "Solomun",
+      "yt_duration_s": 449,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "6WMIoBNpTek"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:35.625552",
+    "playlist": "playlist",
+    "spotify": "Whilk & Misky, Solomun -- Clap Your Hands - Solomun Remix / Radio Edit",
+    "status": "added",
+    "match": {
+      "score": 78.2,
+      "yt_title": "Clap Your Hands (Solomun Remix / Radio Edit)",
+      "yt_artist": "Whilk & Misky",
+      "yt_duration_s": 260,
+      "reason": "artist=74% title=84% | duration_diff=0s",
+      "video_id": "UC0SlYLss48"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:39.046373",
+    "playlist": "playlist",
+    "spotify": "Mujuice -- Timber",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Timber",
+      "yt_artist": "Mujuice",
+      "yt_duration_s": 384,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "NHteomzF-qM"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:42.649538",
+    "playlist": "playlist",
+    "spotify": "Hot Chip -- Over And Over",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Over And Over",
+      "yt_artist": "Hot Chip",
+      "yt_duration_s": 348,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "hl8JLyhgZRE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:46.138528",
+    "playlist": "playlist",
+    "spotify": "Guy Gerber, Dixon -- No Distance - Original Mix",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "No Distance",
+      "yt_artist": "Dixon",
+      "yt_duration_s": 477,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "-oZUc3ToL5o"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:49.724728",
+    "playlist": "playlist",
+    "spotify": "Poldoore -- But I Do",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "But I Do",
+      "yt_artist": "Poldoore",
+      "yt_duration_s": 239,
+      "reason": "artist=100% title=100% | duration_diff=1s",
+      "video_id": "LW3YLn0CSnE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:53.291763",
+    "playlist": "playlist",
+    "spotify": "Nightmares On Wax -- You Wish",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "You Wish",
+      "yt_artist": "Nightmares On Wax",
+      "yt_duration_s": 210,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "rxbCaiyYSXM"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:56.883300",
+    "playlist": "playlist",
+    "spotify": "Dafuniks, Particle Man -- Soul Searching",
+    "status": "pending",
+    "match": {
+      "score": 72.0,
+      "yt_title": "Soul Searching (feat. Particle Man)",
+      "yt_artist": "Dafuniks",
+      "yt_duration_s": 228,
+      "reason": "artist=53% title=100% | duration_diff=0s",
+      "video_id": "yVIjqnxkY0g"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:57.472736",
+    "playlist": "playlist",
+    "spotify": "DJ Vadim, Katrina Blackstone, Pugs Atomz -- Shoop Shoop",
+    "status": "pending",
+    "match": {
+      "score": 64.0,
+      "yt_title": "Shoop Shoop",
+      "yt_artist": "DJ Vadim",
+      "yt_duration_s": 284,
+      "reason": "artist=40% title=100% | duration_diff=0s",
+      "video_id": "nFWOGFl6Jo8"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:12:58.010394",
+    "playlist": "playlist",
+    "spotify": "Sofa Surfers, Mani Obeya -- Broken Together",
+    "status": "added",
+    "match": {
+      "score": 80.0,
+      "yt_title": "Broken Together (feat. Mani Obeya) (feat. Mani Obeya)",
+      "yt_artist": "Sofa Surfers",
+      "yt_duration_s": 287,
+      "reason": "artist=67% title=100% | duration_diff=0s",
+      "video_id": "443XAcEdg3Q"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:13:01.479848",
+    "playlist": "playlist",
+    "spotify": "De-Phazz -- Between 2 Thieves",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Between 2 Thieves",
+      "yt_artist": "De-Phazz",
+      "yt_duration_s": 329,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "85qsMcmcGlw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:13:05.104174",
+    "playlist": "playlist",
+    "spotify": "Waldeck -- Memories",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Memories",
+      "yt_artist": "Waldeck",
+      "yt_duration_s": 231,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "sQ0jwAeqU5k"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:34.246456",
+    "playlist": "playlist",
+    "spotify": "Guy Gerber, Dixon -- No Distance - Original Mix",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "No Distance",
+      "yt_artist": "Dixon",
+      "yt_duration_s": 477,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "-oZUc3ToL5o"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:37.150751",
+    "playlist": "playlist",
+    "spotify": "Poldoore -- But I Do",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "But I Do",
+      "yt_artist": "Poldoore",
+      "yt_duration_s": 239,
+      "reason": "artist=100% title=100% | duration_diff=1s",
+      "video_id": "LW3YLn0CSnE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:40.612251",
+    "playlist": "playlist",
+    "spotify": "Nightmares On Wax -- You Wish",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "You Wish",
+      "yt_artist": "Nightmares On Wax",
+      "yt_duration_s": 210,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "rxbCaiyYSXM"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:43.658402",
+    "playlist": "playlist",
+    "spotify": "Dafuniks, Particle Man -- Soul Searching",
+    "status": "pending",
+    "match": {
+      "score": 72.0,
+      "yt_title": "Soul Searching (feat. Particle Man)",
+      "yt_artist": "Dafuniks",
+      "yt_duration_s": 228,
+      "reason": "artist=53% title=100% | duration_diff=0s",
+      "video_id": "yVIjqnxkY0g"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:44.266693",
+    "playlist": "playlist",
+    "spotify": "DJ Vadim, Katrina Blackstone, Pugs Atomz -- Shoop Shoop",
+    "status": "pending",
+    "match": {
+      "score": 64.0,
+      "yt_title": "Shoop Shoop",
+      "yt_artist": "DJ Vadim",
+      "yt_duration_s": 284,
+      "reason": "artist=40% title=100% | duration_diff=0s",
+      "video_id": "nFWOGFl6Jo8"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:44.733780",
+    "playlist": "playlist",
+    "spotify": "Sofa Surfers, Mani Obeya -- Broken Together",
+    "status": "added",
+    "match": {
+      "score": 80.0,
+      "yt_title": "Broken Together (feat. Mani Obeya) (feat. Mani Obeya)",
+      "yt_artist": "Sofa Surfers",
+      "yt_duration_s": 287,
+      "reason": "artist=67% title=100% | duration_diff=0s",
+      "video_id": "443XAcEdg3Q"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:47.714972",
+    "playlist": "playlist",
+    "spotify": "De-Phazz -- Between 2 Thieves",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Between 2 Thieves",
+      "yt_artist": "De-Phazz",
+      "yt_duration_s": 329,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "85qsMcmcGlw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:50.657447",
+    "playlist": "playlist",
+    "spotify": "Waldeck -- Memories",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Memories",
+      "yt_artist": "Waldeck",
+      "yt_duration_s": 231,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "sQ0jwAeqU5k"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:53.771858",
+    "playlist": "playlist",
+    "spotify": "Aim -- Let the Funk Ride",
+    "status": "pending",
+    "match": {
+      "score": 53.6,
+      "yt_title": "On the Block",
+      "yt_artist": "Aim",
+      "yt_duration_s": 237,
+      "reason": "artist=100% title=41% | duration_diff=74s",
+      "video_id": "6ID2ULQRMJw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:54.311174",
+    "playlist": "playlist",
+    "spotify": "DJ Premier -- Change",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Change",
+      "yt_artist": "DJ PREMIER",
+      "yt_duration_s": 121,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "xAan6eC3FmU"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:14:57.963079",
+    "playlist": "playlist",
+    "spotify": "Tears For Fears -- Mad World",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Mad World",
+      "yt_artist": "Tears For Fears",
+      "yt_duration_s": 216,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "vlRAstW6cCQ"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:01.363775",
+    "playlist": "playlist",
+    "spotify": "SOFI TUKKER -- Matadora - Medina Remix",
+    "status": "added",
+    "match": {
+      "score": 96.5,
+      "yt_title": "Matadora (Medina Remix)",
+      "yt_artist": "SOFI TUKKER",
+      "yt_duration_s": 324,
+      "reason": "artist=100% title=91% | duration_diff=0s",
+      "video_id": "0bgtrOg3-Sc"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:04.790793",
+    "playlist": "playlist",
+    "spotify": "Crazy P -- Virtuality - Original",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Virtuality",
+      "yt_artist": "Crazy P",
+      "yt_duration_s": 431,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "vJlcj1Oyj4o"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:08.300460",
+    "playlist": "playlist",
+    "spotify": "Umbo, Mila -- Keep That Beat - Cayetano remix",
+    "status": "pending",
+    "match": {
+      "score": 65.2,
+      "yt_title": "Keep That Beat (Cayetano remix) (feat. Mila)",
+      "yt_artist": "Umbo",
+      "yt_duration_s": 272,
+      "reason": "artist=57% title=77% | duration_diff=0s",
+      "video_id": "5JigS_lX26o"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:08.824225",
+    "playlist": "playlist",
+    "spotify": "Stan Getz -- Noite Triste",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Noite Triste",
+      "yt_artist": "Stan Getz",
+      "yt_duration_s": 296,
+      "reason": "artist=100% title=100% | duration_diff=3s",
+      "video_id": "-qKyrABzpbk"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:12.361862",
+    "playlist": "playlist",
+    "spotify": "Manu Chao -- La primavera",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "La Primavera",
+      "yt_artist": "Manu chao",
+      "yt_duration_s": 113,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "1sXmDwRR2VE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:15.822958",
+    "playlist": "playlist",
+    "spotify": "Sinéad O'Connor -- 8 Good Reasons",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "8 Good Reasons",
+      "yt_artist": "Sinéad O'Connor",
+      "yt_duration_s": 207,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "FrldKox5kfU"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:19.320635",
+    "playlist": "playlist",
+    "spotify": "Tim Deluxe -- So What!",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "So What!",
+      "yt_artist": "Tim Deluxe",
+      "yt_duration_s": 193,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "sJHdEqk3uUg"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:22.874886",
+    "playlist": "playlist",
+    "spotify": "Jazzystics feat. Karen Souza -- Personal Jesus",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Personal Jesus (feat. Karen Souza)",
+      "yt_artist": "Jazzystics",
+      "yt_duration_s": 199,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "JgKiDIrSDpw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:26.433470",
+    "playlist": "playlist",
+    "spotify": "Lastraw, JazzyFunk -- Darkest Nights - Vijay & Sofia Zlatko Remix",
+    "status": "pending",
+    "match": {
+      "score": 67.1,
+      "yt_title": "Darkest Nights (Vijay & Sofia Zlatko Remix)",
+      "yt_artist": "Lastraw",
+      "yt_duration_s": 396,
+      "reason": "artist=56% title=84% | duration_diff=0s",
+      "video_id": "bUkKMyDLFoI"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:26.887663",
+    "playlist": "playlist",
+    "spotify": "Emancipator -- Black Lake",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Black Lake",
+      "yt_artist": "Emancipator",
+      "yt_duration_s": 219,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "PnR9AzLUayo"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:30.500734",
+    "playlist": "playlist",
+    "spotify": "Wildcookie, Anthony Mills, Freddie Cruger -- Serious Drug",
+    "status": "pending",
+    "match": {
+      "score": 63.5,
+      "yt_title": "Serious Drug",
+      "yt_artist": "Wildcookie",
+      "yt_duration_s": 176,
+      "reason": "artist=39% title=100% | duration_diff=0s",
+      "video_id": "fWBmGYQrYwY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:30.908914",
+    "playlist": "playlist",
+    "spotify": "Richenel -- I Won't Bite",
+    "status": "pending",
+    "match": {
+      "score": 70.4,
+      "yt_title": "Love dreams",
+      "yt_artist": "Richenel",
+      "yt_duration_s": 300,
+      "reason": "artist=100% title=26% | duration_diff=3s",
+      "video_id": "fVFIymtQguY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:31.299752",
+    "playlist": "playlist",
+    "spotify": "Flow Dynamics -- At The Speakeasy (Flow Dynamics Remix)",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "At The Speakeasy (Flow Dynamics Remix)",
+      "yt_artist": "Flow Dynamics",
+      "yt_duration_s": 270,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "8MrvQpW3k4s"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:15:34.782199",
+    "playlist": "playlist",
+    "spotify": "The Avener -- Fade Out Lines",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Fade Out Lines (The Avener Rework)",
+      "yt_artist": "The Avener",
+      "yt_duration_s": 277,
+      "reason": "artist=100% title=100% | duration_diff=1s",
+      "video_id": "EJctdTsMXd0"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:04.329967",
+    "playlist": "playlist",
+    "spotify": "Manu Chao -- La primavera",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "La Primavera",
+      "yt_artist": "Manu chao",
+      "yt_duration_s": 113,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "1sXmDwRR2VE"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:07.171066",
+    "playlist": "playlist",
+    "spotify": "Sinéad O'Connor -- 8 Good Reasons",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "8 Good Reasons",
+      "yt_artist": "Sinéad O'Connor",
+      "yt_duration_s": 207,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "FrldKox5kfU"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:10.102964",
+    "playlist": "playlist",
+    "spotify": "Tim Deluxe -- So What!",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "So What!",
+      "yt_artist": "Tim Deluxe",
+      "yt_duration_s": 193,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "sJHdEqk3uUg"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:13.062924",
+    "playlist": "playlist",
+    "spotify": "Jazzystics feat. Karen Souza -- Personal Jesus",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Personal Jesus (feat. Karen Souza)",
+      "yt_artist": "Jazzystics",
+      "yt_duration_s": 199,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "JgKiDIrSDpw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:15.945493",
+    "playlist": "playlist",
+    "spotify": "Lastraw, JazzyFunk -- Darkest Nights - Vijay & Sofia Zlatko Remix",
+    "status": "pending",
+    "match": {
+      "score": 67.1,
+      "yt_title": "Darkest Nights (Vijay & Sofia Zlatko Remix)",
+      "yt_artist": "Lastraw",
+      "yt_duration_s": 396,
+      "reason": "artist=56% title=84% | duration_diff=0s",
+      "video_id": "bUkKMyDLFoI"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:16.375968",
+    "playlist": "playlist",
+    "spotify": "Emancipator -- Black Lake",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Black Lake",
+      "yt_artist": "Emancipator",
+      "yt_duration_s": 219,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "PnR9AzLUayo"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:19.238701",
+    "playlist": "playlist",
+    "spotify": "Wildcookie, Anthony Mills, Freddie Cruger -- Serious Drug",
+    "status": "pending",
+    "match": {
+      "score": 63.5,
+      "yt_title": "Serious Drug",
+      "yt_artist": "Wildcookie",
+      "yt_duration_s": 176,
+      "reason": "artist=39% title=100% | duration_diff=0s",
+      "video_id": "fWBmGYQrYwY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:19.638097",
+    "playlist": "playlist",
+    "spotify": "Richenel -- I Won't Bite",
+    "status": "pending",
+    "match": {
+      "score": 70.4,
+      "yt_title": "Love dreams",
+      "yt_artist": "Richenel",
+      "yt_duration_s": 300,
+      "reason": "artist=100% title=26% | duration_diff=3s",
+      "video_id": "fVFIymtQguY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:20.057842",
+    "playlist": "playlist",
+    "spotify": "Flow Dynamics -- At The Speakeasy (Flow Dynamics Remix)",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "At The Speakeasy (Flow Dynamics Remix)",
+      "yt_artist": "Flow Dynamics",
+      "yt_duration_s": 270,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "8MrvQpW3k4s"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:22.880169",
+    "playlist": "playlist",
+    "spotify": "The Avener -- Fade Out Lines",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Fade Out Lines (The Avener Rework)",
+      "yt_artist": "The Avener",
+      "yt_duration_s": 277,
+      "reason": "artist=100% title=100% | duration_diff=1s",
+      "video_id": "EJctdTsMXd0"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:25.752185",
+    "playlist": "playlist",
+    "spotify": "Natureboy Flako -- Moonchild",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Moonchild",
+      "yt_artist": "Natureboy Flako",
+      "yt_duration_s": 122,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "PJxEc561Wdg"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:29.229893",
+    "playlist": "playlist",
+    "spotify": "Sabzi -- Boro",
+    "status": "pending",
+    "match": {
+      "score": 43.3,
+      "yt_title": "BORO",
+      "yt_artist": "SamyaR",
+      "yt_duration_s": 94,
+      "reason": "artist=36% title=100% | duration_diff=240s",
+      "video_id": "DkERXwt8lIY"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:29.703767",
+    "playlist": "playlist",
+    "spotify": "J-Walk -- Soul Vibration",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Soul Vibration",
+      "yt_artist": "J-Walk",
+      "yt_duration_s": 225,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "acvHtxR8A9E"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:33.217725",
+    "playlist": "playlist",
+    "spotify": "Blue Lab Beats -- Blue Skies",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Blue Skies",
+      "yt_artist": "Blue Lab Beats",
+      "yt_duration_s": 346,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "qSdl9GIAi5M"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:36.817614",
+    "playlist": "playlist",
+    "spotify": "Cage The Elephant -- Ain't No Rest For The Wicked - Original Version",
+    "status": "pending",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Ain't No Rest For The Wicked",
+      "yt_artist": "Cage The Elephant",
+      "yt_duration_s": 176,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "qLP9FaocIUk"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:37.339231",
+    "playlist": "playlist",
+    "spotify": "Erol Alkan, Boys Noize, Chilly Gonzales -- Waves - Chilly Gonzales Piano Remake",
+    "status": "pending",
+    "match": {
+      "score": 72.1,
+      "yt_title": "Waves (Chilly Gonzales Piano Remake)",
+      "yt_artist": "Erol Alkan",
+      "yt_duration_s": 259,
+      "reason": "artist=57% title=94% | duration_diff=0s",
+      "video_id": "f_2VfT6p6nM"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:37.814934",
+    "playlist": "playlist",
+    "spotify": "Parov Stelar -- Hurt",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Hurt",
+      "yt_artist": "Parov Stelar",
+      "yt_duration_s": 183,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "3psBIwuA8Pc"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:41.401535",
+    "playlist": "playlist",
+    "spotify": "95 North -- Get Your Mind Together",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Get Your Mind Together",
+      "yt_artist": "95 North",
+      "yt_duration_s": 336,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "cYLWJZ_DTQQ"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:44.918710",
+    "playlist": "playlist",
+    "spotify": "Dennis Ferrer -- Palisade Park",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "Palisade Park",
+      "yt_artist": "Dennis Ferrer",
+      "yt_duration_s": 403,
+      "reason": "artist=100% title=100% | duration_diff=0s",
+      "video_id": "QSW-mPQjOPw"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:48.903984",
+    "playlist": "playlist",
+    "spotify": "Mateo, Matos -- Taste Of Funk",
+    "status": "added",
+    "match": {
+      "score": 88.9,
+      "yt_title": "Taste Of Funk",
+      "yt_artist": "Mateo and Matos",
+      "yt_duration_s": 311,
+      "reason": "artist=81% title=100% | duration_diff=0s",
+      "video_id": "AJVLih5FoQc"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:52.451421",
+    "playlist": "playlist",
+    "spotify": "Richard Les Crees -- After the Rain",
+    "status": "pending",
+    "match": {
+      "score": 55.2,
+      "yt_title": "These Happy Feelings",
+      "yt_artist": "Richard Les Crees",
+      "yt_duration_s": 340,
+      "reason": "artist=100% title=47% | duration_diff=22s",
+      "video_id": "RmZQpJPNb4A"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:52.863777",
+    "playlist": "playlist",
+    "spotify": "Kevin Yost -- Ky Funk & Stuff",
+    "status": "added",
+    "match": {
+      "score": 100.0,
+      "yt_title": "KY Funk & Stuff",
+      "yt_artist": "Kevin Yost",
+      "yt_duration_s": 497,
+      "reason": "artist=100% title=100% | duration_diff=3s",
+      "video_id": "o66B_dRzH6U"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:56.485210",
+    "playlist": "playlist",
+    "spotify": "Pet Shop Boys, Claptone -- Love is a Bourgeois Construct - Claptone Remix",
+    "status": "added",
+    "match": {
+      "score": 84.0,
+      "yt_title": "Love is a Bourgeois Construct (Claptone Remix)",
+      "yt_artist": "Pet Shop Boys",
+      "yt_duration_s": 420,
+      "reason": "artist=76% title=96% | duration_diff=0s",
+      "video_id": "CsfbJqL7vho"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:17:59.980545",
+    "playlist": "playlist",
+    "spotify": "Apparat, Raz Ohara -- Hailin From The Edge",
+    "status": "pending",
+    "match": {
+      "score": 73.6,
+      "yt_title": "Hailin From The Edge",
+      "yt_artist": "Apparat",
+      "yt_duration_s": 220,
+      "reason": "artist=56% title=100% | duration_diff=0s",
+      "video_id": "qw_YPOILluo"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T21:18:00.440373",
+    "playlist": "playlist",
+    "spotify": "Gentle Fred, DJ Spen, SP3N -- When We See Africa - DJ SPEN aka SP3N Remix",
+    "status": "pending",
+    "match": {
+      "score": 82.4,
+      "yt_title": "When We See Africa",
+      "yt_artist": "Gentle Fred",
+      "yt_duration_s": 394,
+      "reason": "artist=71% title=100% | duration_diff=5s",
+      "video_id": "kui1H046iWM"
+    }
+  }
+]
