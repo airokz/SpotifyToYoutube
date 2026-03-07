@@ -1,5 +1,4 @@
 ytmusic_auth.json
-workspace/
 *.csv
 venv/
 __pycache__/
