@@ -57,7 +57,16 @@ python3 main.py --csv playlists/MyPlaylist.csv
 --delay N         Seconds between each track add (default: 2.0)
 ```
 
-### Review pending matches
+### Workflow with Goshan (AI assistant)
+
+See **[WORKFLOW.md](WORKFLOW.md)** for the full session checklist, auth setup, batch running, and pending review process.
+
+After each batch run, Goshan will:
+1. Show all pending tracks as a **bullet list** (not table — hard to read in Telegram)
+2. Apply accept/skip decisions and clear the pending queue
+3. Run the next batch immediately after
+
+### Review pending matches (manual fallback)
 
 Some tracks get flagged as "pending" when match confidence is below threshold or duration doesn't align:
 
