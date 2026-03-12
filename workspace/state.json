@@ -444,11 +444,43 @@
       ],
       "csv_position": 606,
       "done": true
+    },
+    "RVAKA": {
+      "yt_playlist_id": "PLc0ZQBidoD7RgPNQNlZrWwqQGzUARcx2o",
+      "added_video_ids": [
+        "hQOOuqLZh-E",
+        "UCBFDoVtEco",
+        "qTPNTQuxoy4",
+        "-gl7hrnk4HI",
+        "_mOulkWub9I",
+        "fLVOVrke5xk",
+        "1xWTi4ZnbhM",
+        "-_bUialF6HY",
+        "LXFwhTEqjcE",
+        "Yar0Smid9Us",
+        "Xlfxs___Ly4",
+        "IxEr4uPP_tY",
+        "Nv0VP9nYwFk",
+        "ZRKEMMZJwMo",
+        "jmEkDnXt1yA",
+        "7YnEvA-MAzo",
+        "0EGsb_y2reY",
+        "xs-ktYqjAN4",
+        "BPXRSce6rnE",
+        "FEL5lgPoqxg",
+        "pMI6Qb9f_Dg",
+        "4LTz86AWNOc",
+        "G9NPCzbVzSk",
+        "6LxYRX6hA0Q",
+        "mffuL3Nuxtw"
+      ],
+      "done": false,
+      "csv_position": 25
     }
   },
   "daily": {
     "2026-03-07": 180,
     "2026-03-09": 203,
-    "2026-03-12": 99
+    "2026-03-12": 124
   }
 }
