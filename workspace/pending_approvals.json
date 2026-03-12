@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "playlist_name": "classic_jungle",
+    "yt_playlist_id": "PLc0ZQBidoD7Q7H1xL7z5VMUdh3ZOKuMRF",
+    "spotify_track": {
+      "name": "Hearing Is Believing - Remix",
+      "artist": "M.A.2.",
+      "album": "Jungle Hits, Vol. 3",
+      "duration_ms": 244093
+    },
+    "video_id": "b4UEHBPZsMU",
+    "match_info": {
+      "score": 43.2,
+      "yt_title": "MA2 - Hearing Is Believing (Remix)",
+      "yt_artist": "JuJuSubBass",
+      "yt_duration_s": null,
+      "reason": "artist=12% title=90%",
+      "video_id": "b4UEHBPZsMU"
+    }
+  }
+]
